@@ -3,7 +3,7 @@
 var tcresearch = {
 
 	// App variables
-	version			: "4.2.2.0", // Default version
+	version			: "5.0.3", // Default version
 	addonAspects	: null,
 	combinations	: {},
 	aspects			: [],
