@@ -2,7 +2,7 @@
 Thaumcraft 5 Research Helper
 ==========
 
-[This script](http://soullesswaffle.github.io/tcresearch) helps you with your Thaumcraft 5 research. If you have a research note with two aspects that you don't know how to connect, this is your tool.
+[This script](http://soullesswaffle.github.io/tcresearch) helps you with your Thaumcraft 5.x research. If you have a research note with two aspects that you don't know how to connect, this is your tool.
 
 + Select the __aspect from which__ you have to __start__.
 + Select the __aspect__ that you have __to get to__.
